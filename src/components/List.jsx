@@ -1,9 +1,9 @@
-const List = ({ list }) => {
+const List = ({ lists }) => {
   return (
     <ol>
-      {list.map((item) => (
-        <li>
-          {item.id}. {item.title}
+      {lists.map((list) => (
+        <li key={list.id}>
+          {list.id}. {list.title}
         </li>
       ))}
     </ol>
