@@ -1,6 +1,6 @@
-# React Pagenation Hook
+# React Pagination Hook
 
-A custom react hook for pagenation functions.
+A custom react hook for pagination functions.
 
 [DEMO](https://react-pagenation-hook.vercel.app/)
 
@@ -11,7 +11,7 @@ A custom react hook for pagenation functions.
 1. Clone this repository.
 
 ```
-git clone git@github.com:coffmanjrp/react-pagenation-hook.git
+git clone git@github.com:coffmanjrp/react-pagination-hook.git
 ```
 
 Or download the zip file.
